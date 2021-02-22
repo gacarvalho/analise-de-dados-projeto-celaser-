@@ -1,0 +1,793 @@
+skCustomer;customerName;city;state;country;idcustomer
+1;Alex Avila;Agra;Uttar Pradesh;India;AA-10315
+3;Andrew Allen;Bergen;Hordaland;Norway;AA-10480
+5;Alex Avila;Bursa;Bursa;Turkey;AA-315
+7;Andrew Allen;Bechar;Bechar;Algeria;AA-480
+9;Aaron Bergman;Apopa;San Salvador;El Salvador;AB-10015
+11;Adrian Barton;Henderson;Kentucky;United States;AB-10105
+13;Alan Barnes;Decatur;Illinois;United States;AB-10165
+15;Adrian Barton;Ankara;Ankara;Turkey;AB-105
+17;Aaron Bergman;Berdyansk;Zaporizhzhya;Ukraine;AB-15
+19;Alan Barnes;Bialystok;Podlaskie;Poland;AB-165
+21;Adam Bellavance;Kaunas;Kaunas;Lithuania;AB-60
+23;Alyssa Crouse;Apodaca;Nuevo León;Mexico;AC-10420
+25;Ann Chong;Binjai;Sumatera Utara;Indonesia;AC-10615
+27;Alyssa Crouse;Alexandria;Al Iskandariyah;Egypt;AC-420
+29;Ann Chong;Bauchi;Bauchi;Nigeria;AC-615
+31;Alan Dominguez;Auckland;Auckland;New Zealand;AD-10180
+33;Art Ferguson;Albany;Western Australia;Australia;AF-10870
+35;Art Ferguson;Basra;Al Basrah;Iraq;AF-870
+37;Alejandro Grove;Omaha;Nebraska;United States;AG-10270
+39;Alex Grayson;Aylesbury;England;United Kingdom;AG-10330
+41;Andrew Gjertsen;Alexandria;Virginia;United States;AG-10495
+43;Anna Gayman;Allen;Texas;United States;AG-10675
+45;Arthur Gainer;Chicago;Illinois;United States;AG-10900
+47;Aleksandra Gannaway;Alanya;Antalya;Turkey;AG-300
+49;Allen Goldenen;Gitarama;Southern;Rwanda;AG-390
+51;Andy Gerbode;Kano;Kano;Nigeria;AG-525
+53;Anthony Garverick;Istanbul;Istanbul;Turkey;AG-765
+55;Aaron Hawkins;Depok;Yogyakarta;Indonesia;AH-10030
+57;Adrian Hane;Cancún;Quintana Roo;Mexico;AH-10120
+59;Alan Hwang;Barcelona;Catalonia;Spain;AH-10210
+61;Angele Hood;Kabul;Kabul;Afghanistan;AH-10585
+63;Adrian Hane;Cairo;Al Qahirah;Egypt;AH-120
+65;Alan Hwang;Izmir;Izmir;Turkey;AH-210
+67;Amy Hunt;Marrakech;Marrakech-Tensift-El Haouz;Morocco;AH-465
+69;Anna Häberlin;Bulawayo;Bulawayo;Zimbabwe;AH-690
+71;Arianne Irving;Chesapeake;Virginia;United States;AI-10855
+73;Anthony Jacobs;Baltimore;Maryland;United States;AJ-10780
+75;Ashley Jarboe;Aligarh;Uttar Pradesh;India;AJ-10945
+77;Anthony Jacobs;Brampton;Ontario;Canada;AJ-780
+79;Ashley Jarboe;Saint-Louis;Saint-Louis;Senegal;AJ-945
+81;Alice McCarthy;Brisbane;Queensland;Australia;AM-10360
+83;Alice McCarthy;Cape Town;Western Cape;South Africa;AM-360
+85;Anthony ODonnell;Doncaster;England;United Kingdom;AO-10810
+87;Anne Pryor;Brasília;Federal District;Brazil;AP-10720
+89;Anne Pryor;Ekibastuz;Pavlodar;Kazakhstan;AP-720
+91;Alex Russell;Amadora;Lisboa;Portugal;AR-10345
+93;Andrew Roberts;Bagneux;Ile-de-France;France;AR-10510
+95;Anemone Ratner;Columbus;Georgia;United States;AR-10570
+97;Alex Russell;Chingola;Copperbelt;Zambia;AR-345
+99;Andrew Roberts;Denizli;Denizli;Turkey;AR-510
+101;Anemone Ratner;Kindu;Maniema;Democratic Republic of the Congo;AR-570
+103;Aaron Smayling;Coffs Harbour;New South Wales;Australia;AS-10045
+105;Adrian Shami;Auburn;Washington;United States;AS-10135
+107;Alan Shonely;Aligarh;Uttar Pradesh;India;AS-10240
+109;Ann Steele;Cologne;North Rhine-Westphalia;Germany;AS-10630
+111;Alan Schoenberger;Lagos;Lagos;Nigeria;AS-225
+113;Alejandro Savely;Ivanovo;Ivanovo;Russia;AS-285
+115;Ann Steele;Abidjan;Lagunes;Cote dIvoire;AS-630
+117;Alyssa Tate;Barcelona;Anzoátegui;Venezuela;AT-10435
+119;Alyssa Tate;Ankara;Ankara;Turkey;AT-435
+121;Anthony Witt;Amsterdam;North Holland;Netherlands;AW-10840
+123;Anthony Witt;Eskisehir;Eskisehir;Turkey;AW-840
+125;Andy Yotov;Los Angeles;California;United States;AY-10555
+127;Annie Zypern;Chihuahua;Chihuahua;Mexico;AZ-10750
+129;Barry Blumstein;David;Chiriquí;Panama;BB-10990
+131;Brenda Bowman;Izmir;Izmir;Turkey;BB-1545
+133;Becky Castell;El Cajon;California;United States;BC-11125
+135;Bill Donatelli;Apopa;San Salvador;El Salvador;BD-11320
+137;Brendan Dodson;Cambridge;England;United Kingdom;BD-11560
+139;Brian DeCherney;Lawton;Oklahoma;United States;BD-11620
+141;Bruce Degenhardt;Amatitlán;Guatemala;Guatemala;BD-11725
+143;Bill Donatelli;Baghdad;Baghdad;Iraq;BD-1320
+145;Brendan Dodson;Katowice;Silesia;Poland;BD-1560
+147;Brian DeCherney;Arbil;Arbil;Iraq;BD-1620
+149;Bruce Degenhardt;Bur Sudan;Red Sea;Sudan;BD-1725
+151;Bill Eplett;Adelaide;South Australia;Australia;BE-11335
+153;Brad Eason;Dos Hermanas;Andalusía;Spain;BE-11455
+155;Bobby Elias;Baghdad;Baghdad;Iraq;BE-1410
+157;Barry Französisch;Ankara;Ankara;Turkey;BF-1020
+159;Barbara Fisher;Auckland;Auckland;New Zealand;BF-10975
+161;Barry Französisch;Arlington;Texas;United States;BF-11020
+163;Ben Ferrer;Angeles City;Central Luzon;Philippines;BF-11170
+165;Beth Fritzler;Deventer;Overijssel;Netherlands;BF-11275
+167;Benjamin Farhat;Kenitra;Gharb-Chrarda-Béni Hssen;Morocco;BF-1215
+169;Barbara Fisher;Alexandria;Al Iskandariyah;Egypt;BF-975
+171;Brooke Gillingham;Binjai;Sumatera Utara;Indonesia;BG-11695
+173;Brooke Gillingham;Lagos;Lagos;Nigeria;BG-1695
+175;Brosina Hoffman;Cabo de Santo Agostinho;Pernambuco;Brazil;BH-11710
+177;Berenike Kampe;Bonn;North Rhine-Westphalia;Germany;BK-11260
+179;Becky Martin;Bello;Antioquia;Colombia;BM-11140
+181;Brendan Murry;Bacolod City;Western Visayas;Philippines;BM-11575
+183;Bryan Mills;Bundaberg;Queensland;Australia;BM-11785
+185;Brian Moss;Ziguinchor;Ziguinchor;Senegal;BM-1650
+187;Brad Norvell;Barreiras;Bahia;Brazil;BN-11470
+189;Brad Norvell;Cape Town;Western Cape;South Africa;BN-1470
+191;Bill Overfelt;Broken Arrow;Oklahoma;United States;BO-11350
+193;Bill Overfelt;Antalya;Antalya;Turkey;BO-1350
+195;Barry Pond;Abidjan;Lagunes;Cote dIvoire;BP-1050
+197;Barry Pond;Dudley;England;United Kingdom;BP-11050
+199;Becky Pak;Columbus;Georgia;United States;BP-11155
+201;Benjamin Patterson;Barcelona;Catalonia;Spain;BP-11230
+203;Becky Pak;Baghdad;Baghdad;Iraq;BP-1155
+205;Benjamin Patterson;Port Harcourt;Rivers;Nigeria;BP-1230
+207;Bill Shonely;Americana;São Paulo;Brazil;BS-11365
+209;Brendan Sweed;Angeles City;Central Luzon;Philippines;BS-11590
+211;Bruce Stewart;Cairns;Queensland;Australia;BS-11755
+213;Bill Shonely;Accra;Greater Accra;Ghana;BS-1365
+215;Brendan Sweed;Salzburg;Salzburg;Austria;BS-1590
+217;Bruce Stewart;Port Harcourt;Rivers;Nigeria;BS-1755
+219;Beth Thompson;Carrefour;Ouest;Haiti;BT-11305
+221;Bobby Trafton;Canberra;Australian Capital Territory;Australia;BT-11440
+223;Bradley Talbott;Hamburg;Hamburg;Germany;BT-11530
+225;Beth Thompson;Almaty;Almaty City;Kazakhstan;BT-1305
+227;Bobby Trafton;Istanbul;Istanbul;Turkey;BT-1440
+229;Bradley Talbott;Ibadan;Oyo;Nigeria;BT-1530
+231;Benjamin Venier;Acuña;Coahuila;Mexico;BV-11245
+233;Barry Weirich;Kalemie;Katanga;Democratic Republic of the Congo;BW-1065
+235;Bart Watters;Cape Town;Western Cape;South Africa;BW-1110
+237;Ben Wallace;Dieppe;Upper Normandy;France;BW-11200
+239;Carol Adams;Balikpapan;Kalimantan Timur;Indonesia;CA-11965
+241;Christina Anderson;Bijie;Guizhou;China;CA-12265
+243;Cynthia Arntzen;Christchurch;Canterbury;New Zealand;CA-12775
+245;Cathy Armstrong;Mosul;Ninawa;Iraq;CA-2055
+247;Christine Abelman;Mosul;Ninawa;Iraq;CA-2310
+249;Cassandra Brandow;Arlington;Texas;United States;CB-12025
+251;Claudia Bergmann;Camarillo;California;United States;CB-12535
+253;Christy Brittain;Baghdad;Baghdad;Iraq;CB-2415
+255;Chad Cunningham;Guasave;Sinaloa;Mexico;CC-12100
+257;Chris Cortes;Dresden;Saxony;Germany;CC-12220
+259;Chuck Clark;Bendigo;Victoria;Australia;CC-12430
+261;Clay Cheatham;Antiguo Cuscatlán;La Libertad;El Salvador;CC-12550
+263;Craig Carreira;Azcapotzalco;Distrito Federal;Mexico;CC-12670
+265;Chad Cunningham;Budapest;Budapest;Hungary;CC-2100
+267;Chris Cortes;Bialystok;Podlaskie;Poland;CC-2220
+269;Chuck Clark;Quchan;Razavi Khorasan;Iran;CC-2430
+271;Clay Cheatham;Kharkiv;Kharkiv;Ukraine;CC-2550
+273;Craig Carreira;Osmaniye;Osmaniye;Turkey;CC-2670
+275;Carlos Daly;Copiapó;Atacama;Chile;CD-11920
+277;Christina DeMoss;Delhi;Delhi;India;CD-12280
+279;Carlos Daly;Mabopane;Gauteng;South Africa;CD-1920
+281;Christina DeMoss;Pietermaritzburg;Kwazulu-natal;South Africa;CD-2280
+283;Catherine Glotzbach;Guadalajara;Jalisco;Mexico;CG-12040
+285;Catherine Glotzbach;Uskudar;Istanbul;Turkey;CG-2040
+287;Cathy Hwang;Jining;Shandong;China;CH-12070
+289;Carl Jackson;Brisbane;Queensland;Australia;CJ-11875
+291;Carl Jackson;Konya;Konya;Turkey;CJ-1875
+293;Chloris Kastensmidt;Apopka;Florida;United States;CK-12205
+295;Clytie Kelty;Dresden;Saxony;Germany;CK-12595
+297;Chloris Kastensmidt;Basra;Al Basrah;Iraq;CK-2205
+299;Clytie Kelty;Asyut;Asyut;Egypt;CK-2595
+301;Carl Ludwig;Acuña;Coahuila;Mexico;CL-11890
+303;Craig Leslie;Auckland;Auckland;New Zealand;CL-12700
+305;Clay Ludtke;Saida;Saida;Algeria;CL-2565
+307;Candace McMahon;Choloma;Cortés;Honduras;CM-11815
+309;Carlos Meador;Fayetteville;North Carolina;United States;CM-11935
+311;Charles McCrossin;Bacolod City;Western Visayas;Philippines;CM-12160
+313;Chris McAfee;Kunming;Yunnan;China;CM-12235
+315;Chuck Magee;Carrefour;Ouest;Haiti;CM-12445
+317;Craig Molinari;Cancún;Quintana Roo;Mexico;CM-12715
+319;Cari MacIntyre;Johannesburg;Gauteng;South Africa;CM-1830
+321;Chad McGuire;Cairo;Al Qahirah;Egypt;CM-2115
+323;Charlotte Melton;Gyor;Gyor;Hungary;CM-2190
+325;Christopher Martinez;Quelimane;Zambezia;Mozambique;CM-2385
+327;Corinna Mitchell;Adana;Adana;Turkey;CM-2655
+329;Corey-Lock;Bangalore;Karnataka;India;Co-12640
+331;Cathy Prescott;Bangkok;Bangkok;Thailand;CP-12085
+333;Cathy Prescott;Potchefstroom;North-West;South Africa;CP-2085
+335;Clay Rozendal;Hobart;Tasmania;Australia;CR-12580
+337;Craig Reiter;Chicago;Illinois;United States;CR-12730
+339;Clay Rozendal;Abuja;Abuja Capital Territory;Nigeria;CR-2580
+341;Craig Reiter;Algiers;Alger;Algeria;CR-2730
+343;Cari Sayre;Brisbane;Queensland;Australia;CS-11845
+345;Carlos Soltero;Amsterdam;North Holland;Netherlands;CS-11950
+347;Charles Sheldon;Allahabad;Uttar Pradesh;India;CS-12175
+349;Christine Sundaresam;Camagüey;Camagüey;Cuba;CS-12355
+351;Chuck Sachs;Bandung;Jawa Barat;Indonesia;CS-12460
+353;Cindy Stewart;Clermont-Ferrand;Auvergne;France;CS-12505
+355;Cari Schnelling;Ain Oussera;Djelfa;Algeria;CS-1860
+357;Chad Sievert;Edmonton;Alberta;Canada;CS-2130
+359;Chris Selesnick;Basra;Al Basrah;Iraq;CS-2250
+361;Christopher Schild;Ashdod;Southern;Israel;CS-2400
+363;Cindy Schnelling;Ad Diwaniyah;Al Qadisiyah;Iraq;CS-2490
+365;Carol Triggs;Bogotá;Bogota;Colombia;CT-11995
+367;Christina VanderZanden;Des Moines;Iowa;United States;CV-12295
+369;Christina VanderZanden;Astana;Astana;Kazakhstan;CV-2295
+371;Carl Weiss;Guntur;Andhra Pradesh;India;CW-11905
+373;Craig Yedwab;Gilbert;Arizona;United States;CY-12745
+375;Dianna Arnett;Cancún;Quintana Roo;Mexico;DA-13450
+377;Daniel Byrd;Adelaide;South Australia;Australia;DB-12910
+379;Dave Brooks;Bochum;North Rhine-Westphalia;Germany;DB-13060
+381;Dean Braden;Bendigo;Victoria;Australia;DB-13210
+383;Dennis Bolton;Apopa;San Salvador;El Salvador;DB-13360
+385;Dorothy Badders;Fayetteville;Arkansas;United States;DB-13555
+387;Duane Benoit;Bello;Antioquia;Colombia;DB-13660
+389;Darren Budd;Bertoua;Est;Cameroon;DB-2970
+391;David Bremer;Hamilton;Ontario;Canada;DB-3120
+393;Deborah Brumfield;Bishkek;Bishkek;Kyrgyzstan;DB-3270
+395;Denny Blanton;Istanbul;Istanbul;Turkey;DB-3405
+397;Doug Bickford;Accra;Greater Accra;Ghana;DB-3615
+399;Dan Campbell;Cleveland;Ohio;United States;DC-12850
+401;Dan Campbell;Gdansk;Pomerania;Poland;DC-2850
+403;Dorothy Dickinson;Aracaju;Sergipe;Brazil;DD-13570
+405;Deanra Eno;Dubuque;Iowa;United States;DE-13255
+407;David Flashing;Bekasi;Jawa Barat;Indonesia;DF-13135
+409;Deirdre Greer;Agra;Uttar Pradesh;India;DG-13300
+411;Dave Hallsten;Depok;Yogyakarta;Indonesia;DH-13075
+413;Dave Hallsten;Ufa;Bashkortostan;Russia;DH-3075
+415;Denny Joy;Bologna;Emilia-Romagna;Italy;DJ-13420
+417;Doug Jacobs;Bangkok;Bangkok;Thailand;DJ-13630
+419;Don Jones;Basra;Al Basrah;Iraq;DJ-3510
+421;Damala Kotsonis;Buenos Aires;Buenos Aires;Argentina;DK-12835
+423;Darren Koutras;Emden;Lower Saxony;Germany;DK-12985
+425;David Kendrick;Fontainebleau;Ile-de-France;France;DK-13150
+427;Dennis Kane;Haikou;Hainan;China;DK-13375
+429;Dana Kaydos;Ulan Bator;Ulaanbaatar;Mongolia;DK-2895
+431;Dave Kipp;Cairo;Al Qahirah;Egypt;DK-3090
+433;Dean Katz;Cape Town;Western Cape;South Africa;DK-3225
+435;Dan Lawera;Berlin;Berlin;Germany;DL-12865
+437;Delfina Latchford;Arnhem;Gelderland;Netherlands;DL-13315
+439;Dionis Lloyd;Amstelveen;North Holland;Netherlands;DL-13495
+441;Dan Lawera;Shiraz;Fars;Iran;DL-2865
+443;Delfina Latchford;Meknes;Meknès-Tafilalet;Morocco;DL-3315
+445;Dionis Lloyd;Ankara;Ankara;Turkey;DL-3495
+447;Dario Medina;Adelaide;South Australia;Australia;DM-12955
+449;Denise Monton;Bokaro;Jharkhand;India;DM-13345
+451;Dario Medina;Bukavu;South Kivu;Democratic Republic of the Congo;DM-2955
+453;Denise Monton;Bornova;Izmir;Turkey;DM-3345
+455;Duane Noonan;Açu;Rio Grande do Norte;Brazil;DN-13690
+457;Denny Ordway;Culiacán;Sinaloa;Mexico;DO-13435
+459;Denny Ordway;Marrakech;Marrakech-Tensift-El Haouz;Morocco;DO-3435
+461;Darren Powers;Canberra;Australian Capital Territory;Australia;DP-13000
+463;David Philippe;Birmingham;England;United Kingdom;DP-13165
+465;Dennis Pardue;Kediri;Jawa Timur;Indonesia;DP-13390
+467;Dave Poirier;Ankara;Ankara;Turkey;DP-3105
+469;Dean percer;Burnaby;British Columbia;Canada;Dp-3240
+471;Dan Reichenbach;Chicago;Illinois;United States;DR-12880
+473;Dan Reichenbach;Baku;Baki;Azerbaijan;DR-2880
+475;Darrin Sayre;Aurora;Colorado;United States;DS-13030
+477;Darrin Sayre;Alexandria;Al Iskandariyah;Egypt;DS-3030
+479;Darrin Van Huff;Carrefour;Ouest;Haiti;DV-13045
+481;Darrin Van Huff;Antalya;Antalya;Turkey;DV-3045
+483;David Wiener;Apopa;San Salvador;El Salvador;DW-13195
+485;Don Weiss;Bezerros;Pernambuco;Brazil;DW-13540
+487;David Wiener;Baghdad;Baghdad;Iraq;DW-3195
+489;Don Weiss;Adiyaman;Adiyaman;Turkey;DW-3540
+491;Erin Ashbrook;Bandung;Jawa Barat;Indonesia;EA-14035
+493;Ed Braxton;Akron;Ohio;United States;EB-13705
+495;Ellis Ballard;Chicago;Illinois;United States;EB-13840
+497;Eric Barreto;Caloundra;Queensland;Australia;EB-13930
+499;Eugene Barchas;Caloundra;Queensland;Australia;EB-14110
+501;Ed Braxton;Belgorod;Belgorod;Russia;EB-3705
+503;Ellis Ballard;Bur Sudan;Red Sea;Sudan;EB-3840
+505;Eric Barreto;Kinshasa;Kinshasa;Democratic Republic of the Congo;EB-3930
+507;Eugene Barchas;Istanbul;Istanbul;Turkey;EB-4110
+509;Erin Creighton;Mar del Plata;Provincia de Buenos Aires;Argentina;EC-14050
+511;Emily Ducich;Ho Chi Minh City;Ho Chí Minh City;Vietnam;ED-13885
+513;Emily Grady;Bhavnagar;Gujarat;India;EG-13900
+515;Edward Hooks;Araguaína;Tocantins;Brazil;EH-13765
+517;Erica Hackney;Devonport;Tasmania;Australia;EH-13990
+519;Eugene Hildebrand;Apopa;San Salvador;El Salvador;EH-14125
+521;Edward Hooks;Kumasi;Ashanti;Ghana;EH-3765
+523;Erica Hackney;Mubi;Adamawa;Nigeria;EH-3990
+525;Eugene Hildebrand;Bandirma;Balikesir;Turkey;EH-4125
+527;Ed Jacobs;Brisbane;Queensland;Australia;EJ-13720
+529;Ed Jacobs;Behbahan;Khuzestan;Iran;EJ-3720
+531;Eileen Kiefer;Emden;Lower Saxony;Germany;EK-13795
+533;Ed Ludwig;Jefferson City;Missouri;United States;EL-13735
+535;Eleni McCrary;Caloundra;Queensland;Australia;EM-13810
+537;Eric Murdock;Adelaide;South Australia;Australia;EM-13960
+539;Eudokia Martin;Canberra;Australian Capital Territory;Australia;EM-14095
+541;Evan Minnotte;Bangkok;Bangkok;Thailand;EM-14200
+543;Elizabeth Moffitt;Istanbul;Istanbul;Turkey;EM-3825
+545;Erin Mull;Esenyurt;Istanbul;Turkey;EM-4065
+547;Eugene Moren;Ankara;Ankara;Turkey;EM-4140
+549;Edward Nazzal;Albi;Midi-Pyrénées;France;EN-13780
+551;Emily Phan;Dearborn Heights;Michigan;United States;EP-13915
+553;Elpida Rittenbach;Anápolis;Goiás;Brazil;ER-13855
+555;Erica Smith;Bandung;Jawa Barat;Indonesia;ES-14020
+557;Erica Smith;Brest;Brest;Belarus;ES-4020
+559;Frank Atkinson;Apeldoorn;Gelderland;Netherlands;FA-14230
+561;Frank Carlisle;Montevideo;Montevideo;Uruguay;FC-14245
+563;Frank Carlisle;Akhisar;Manisa;Turkey;FC-4245
+565;Frank Gastineau;Auckland;Auckland;New Zealand;FG-14260
+567;Frank Hawley;Apodaca;Nuevo León;Mexico;FH-14275
+569;Fred Hopkins;Halle;North Rhine-Westphalia;Germany;FH-14365
+571;Fred Harton;Aba;Abia;Nigeria;FH-4350
+573;Filia McAdams;Dublin;Ohio;United States;FM-14215
+575;Fred McMath;Detroit;Michigan;United States;FM-14380
+577;Frank Merwin;Budapest;Budapest;Hungary;FM-4290
+579;Frank Olsen;Ceuta;Ceuta;Spain;FO-14305
+581;Frank Preis;Bangkok;Bangkok;Thailand;FP-14320
+583;Fred Wasserman;Antiguo Cuscatlán;La Libertad;El Salvador;FW-14395
+585;George Ashbrook;Buenos Aires;Buenos Aires;Argentina;GA-14515
+587;George Ashbrook;Sosnowiec;Silesia;Poland;GA-4515
+589;George Bell;Aurora;Colorado;United States;GB-14530
+591;George Bell;Sale;Rabat-Salé-Zemmour-Zaer;Morocco;GB-4530
+593;Giulietta Dortch;Bangkok;Bangkok;Thailand;GD-14590
+595;Greg Guthrie;Chico;California;United States;GG-14650
+597;Gary Hansen;Adelaide;South Australia;Australia;GH-14410
+599;Gene Hale;Aoba-ku;Kanagawa;Japan;GH-14485
+601;Gary Hansen;Donetsk;Donetsk;Ukraine;GH-4410
+603;Gene Hale;Alexandria;Al Iskandariyah;Egypt;GH-4485
+605;Grace Kelly;Durgapur;West Bengal;India;GK-14620
+607;Gary McGarr;Auckland;Auckland;New Zealand;GM-14440
+609;Gene McClure;Arraiján;Panama;Panama;GM-14500
+611;Greg Maxwell;Buenos Aires;Buenos Aires;Argentina;GM-14695
+613;Gary Mitchum;Istanbul;Istanbul;Turkey;GM-4455
+615;Greg Matthias;Baghdad;Baghdad;Iraq;GM-4680
+617;Guy Phonely;Delhi;Delhi;India;GP-14740
+619;Georgia Rosenberg;Augsburg;Bavaria;Germany;GR-14560
+621;Grant Thornton;Aberdeen;Scotland;United Kingdom;GT-14635
+623;Guy Thornton;Brahmapur;Odisha;India;GT-14755
+625;Greg Tran;Kano;Kano;Nigeria;GT-4710
+627;Giulietta Weimer;Caloocan;National Capital;Philippines;GW-14605
+629;Gary Zandusky;Bullhead City;Arizona;United States;GZ-14470
+631;Gary Zandusky;Jeddah;Makkah;Saudi Arabia;GZ-4470
+633;Helen Abelman;Barcelona;Catalonia;Spain;HA-14905
+635;Helen Abelman;Hamadan;Hamadan;Iran;HA-4905
+637;Harold Dahlen;Hamilton;Waikato;New Zealand;HD-14785
+639;Harold Engle;Ciego de Ávila;Ciego de Ávila;Cuba;HE-14800
+641;Herbert Flentye;Balneário Camboriú;Santa Catarina;Brazil;HF-14995
+643;Harry Greene;Ajmer;Rajasthan;India;HG-14845
+645;Hunter Glantz;Ingolstadt;Bavaria;Germany;HG-15025
+647;Henry Goldwyn;Lagos;Lagos;Nigeria;HG-4965
+649;Hilary Holden;Managua;Managua;Nicaragua;HH-15010
+651;Heather Jas;Bhubaneswar;Odisha;India;HJ-14875
+653;Heather Kirkland;Boise;Idaho;United States;HK-14890
+655;Hunter Lopez;Gien;Centre;France;HL-15040
+657;Harry Marie;Bangkok;Bangkok;Thailand;HM-14860
+659;Harry Marie;Accra;Greater Accra;Ghana;HM-4860
+661;Harold Pawlan;Buenos Aires;Buenos Aires;Argentina;HP-14815
+663;Hallie Redmond;Barcelona;Catalonia;Spain;HR-14770
+665;Hallie Redmond;Istanbul;Istanbul;Turkey;HR-4770
+667;Helen Wasserman;Chicago;Illinois;United States;HW-14935
+669;Henia Zydlo;Bengbu;Anhui;China;HZ-14950
+671;Ivan Gibson;Beijing;Beijing;China;IG-15085
+673;Ivan Liston;Bhilai;Chhattisgarh;India;IL-15100
+675;Ionia McGrath;Jakarta;Jakarta;Indonesia;IM-15055
+677;Ionia McGrath;Loubomo;Niari;Republic of the Congo;IM-5055
+679;Joseph Airdo;Bangkok;Bangkok;Thailand;JA-15970
+681;Jennifer Braxton;Erfurt;Thuringia;Germany;JB-15400
+683;Joy Bell-;Bahia Blanca;Provincia de Buenos Aires;Argentina;JB-16000
+685;Jennifer Braxton;Johannesburg;Gauteng;South Africa;JB-5400
+687;Joy Bell-;Lagos;Lagos;Nigeria;JB-6000
+689;Jasper Cacioppo;Brisbane;Queensland;Australia;JC-15340
+691;John Castell;Bagneux;Ile-de-France;France;JC-15775
+693;Jasper Cacioppo;Cairo;Al Qahirah;Egypt;JC-5340
+695;John Castell;Abidjan;Lagunes;Cote dIvoire;JC-5775
+697;John Dryer;Belleville;New Jersey;United States;JD-15790
+699;Joy Daniels;Córdoba;Veracruz;Mexico;JD-16015
+701;Justin Deggeller;Bangkok;Bangkok;Thailand;JD-16150
+703;Jonathan Doherty;Alexandria;Al Iskandariyah;Egypt;JD-5895
+705;Julia Dunbar;Johannesburg;Gauteng;South Africa;JD-6060
+707;Jeremy Ellison;Brisbane;Queensland;Australia;JE-15475
+709;Joe Elijah;Broomfield;Colorado;United States;JE-15715
+711;Justin Ellison;Adelaide;South Australia;Australia;JE-16165
+713;Jim Epp;Ilesha;Osun;Nigeria;JE-5610
+715;Joel Eaton;Jizzakh;Jizzakh;Uzbekistan;JE-5745
+717;Jamie Frazer;Dhaka;Dhaka;Bangladesh;JF-15190
+719;Jay Fein;Firozabad;Uttar Pradesh;India;JF-15355
+721;Jeremy Farry;Bangkok;Bangkok;Thailand;JF-15490
+723;Jamie Frazer;Antananarivo;Analamanga;Madagascar;JF-5190
+725;Jay Fein;Bornova;Izmir;Turkey;JF-5355
+727;Jeremy Farry;Dnipropetrovsk;Dnipropetrovsk;Ukraine;JF-5490
+729;Jack Garza;Gold Coast;Queensland;Australia;JG-15115
+731;Jason Gross;Bangkok;Bangkok;Thailand;JG-15310
+733;Jack Garza;Ankara;Ankara;Turkey;JG-5115
+735;Jason Gross;Focsani;Vrancea;Romania;JG-5310
+737;Jennifer Halladay;Depok;Jawa Barat;Indonesia;JH-15430
+739;Jonathan Howell;Amsterdam;North Holland;Netherlands;JH-15910
+741;Justin Hirsh;Depok;Yogyakarta;Indonesia;JH-16180
+743;John Huston;Jeddah;Makkah;Saudi Arabia;JH-5820
+745;Joseph Holt;Riyadh;Ar Riyad;Saudi Arabia;JH-5985
+747;Jennifer Jackson;Bangkok;Bangkok;Thailand;JJ-15445
+749;Jennifer Jackson;Accra;Greater Accra;Ghana;JJ-5445
+751;Jamie Kunitz;Avignon;Provence-Alpes-Côte dAzur;France;JK-15205
+753;Jay Kimmel;Juárez;Chihuahua;Mexico;JK-15370
+755;Jim Kriz;Chinandega;Chinandega;Nicaragua;JK-15640
+757;Juliana Krohn;Ajmer;Rajasthan;India;JK-16090
+759;Jamie Kunitz;Rasht;Gilan;Iran;JK-5205
+761;Jay Kimmel;Port Harcourt;Rivers;Nigeria;JK-5370
+763;Jim Kriz;Kinshasa;Kinshasa;Democratic Republic of the Congo;JK-5640
+765;Juliana Krohn;Khartoum;Khartoum;Sudan;JK-6090
+767;Jack Lebron;Açu;Rio Grande do Norte;Brazil;JL-15130
+769;Janet Lee;Chicago;Illinois;United States;JL-15235
+771;John Lee;Cairns;Queensland;Australia;JL-15835
+773;Jack Lebron;Ardabil;Ardabil;Iran;JL-5130
+775;Janet Lee;Jeddah;Makkah;Saudi Arabia;JL-5235
+777;John Lee;Baku;Baki;Azerbaijan;JL-5835
+779;Janet Martin;Baltimore;Maryland;United States;JM-15250
+781;Jessica Myrick;Bakersfield;California;United States;JM-15535
+783;Jim Mitchum;Arapiraca;Alagoas;Brazil;JM-15655
+785;Justin MacKendrick;Coacalco;México;Mexico;JM-16195
+787;Janet Molinari;Antsiranana;Diana;Madagascar;JM-5265
+789;Jill Matthias;Ardabil;Ardabil;Iran;JM-5580
+791;John Murray;Kinshasa;Kinshasa;Democratic Republic of the Congo;JM-5865
+793;Jack OBriant;Brisbane;Queensland;Australia;JO-15145
+795;Jesus Ocampo;London;England;United Kingdom;JO-15550
+797;Jas OCarroll;Varna;Varna;Bulgaria;JO-5280
+799;Jennifer Patt;Bandung;Jawa Barat;Indonesia;JP-15460
+801;Julie Prescott;Balikpapan;Kalimantan Timur;Indonesia;JP-16135
+803;Jeremy Pistek;Budapest;Budapest;Hungary;JP-5520
+805;Jim Radford;Baotou;Inner Mongolia;China;JR-15670
+807;Justin Ritter;Guayaquil;Guayas;Ecuador;JR-16210
+809;Jocasta Rupert;Istanbul;Istanbul;Turkey;JR-5700
+811;Jill Stevenson;Bangkok;Bangkok;Thailand;JS-15595
+813;John Stevenson;Arrentela;Setúbal;Portugal;JS-15880
+815;Joy Smith;Agra;Uttar Pradesh;India;JS-16030
+817;Jim Sink;Durban;Kwazulu-natal;South Africa;JS-5685
+819;Joni Sundaresam;Kars;Kars;Turkey;JS-5940
+821;Jane Waco;Alfortville;Ile-de-France;France;JW-15220
+823;Julia West;Apatzingán de la Constitución;Michoacán;Mexico;JW-16075
+825;Joni Wasserman;Alexandria;Al Iskandariyah;Egypt;JW-5955
+827;Kelly Andreada;Bekasi;Jawa Barat;Indonesia;KA-16525
+829;Karen Bern;Azcapotzalco;Distrito Federal;Mexico;KB-16240
+831;Katrina Bavinger;Araranguá;Santa Catarina;Brazil;KB-16405
+833;Ken Brennan;Ho Chi Minh City;Ho Chí Minh City;Vietnam;KB-16600
+835;Karl Braun;Baghdad;Baghdad;Iraq;KB-6315
+837;Ken Brennan;Antsiranana;Diana;Madagascar;KB-6600
+839;Kelly Collister;Geraldton;Western Australia;Australia;KC-16540
+841;Karen Carlisle;Baghdad;Baghdad;Iraq;KC-6255
+843;Kimberly Carter;Malatya;Malatya;Turkey;KC-6675
+845;Katherine Ducich;Bagnolet;Ile-de-France;France;KD-16345
+847;Ken Dana;Anaheim;California;United States;KD-16615
+849;Katherine Ducich;Luanda;Luanda;Angola;KD-6345
+851;Ken Dana;Accra;Greater Accra;Ghana;KD-6615
+853;Katrina Edelman;Matola;Maputo;Mozambique;KE-6420
+855;Karen Ferguson;Bursa;Bursa;Turkey;KF-6285
+857;Katherine Hughes;Albany;Western Australia;Australia;KH-16360
+859;Ken Heidel;Dublin;Dublin;Ireland;KH-16630
+861;Katharine Harms;Casablanca;Grand Casablanca;Morocco;KH-6330
+863;Keith Herrera;Alexandria;Al Iskandariyah;Egypt;KH-6510
+865;Kristen Hastings;Bornova;Izmir;Turkey;KH-6690
+867;Ken Lonsdale;Barcelona;Catalonia;Spain;KL-16645
+869;Ken Lonsdale;Etimesgut;Ankara;Turkey;KL-6645
+871;Katherine Murray;Bonao;Monseñor Nouel;Dominican Republic;KM-16375
+873;Kunst Miller;Hanover;Lower Saxony;Germany;KM-16720
+875;Katherine Murray;Chililabombwe;Copperbelt;Zambia;KM-6375
+877;Kunst Miller;Basra;Al Basrah;Iraq;KM-6720
+879;Kean Nguyen;Baltimore;Maryland;United States;KN-16450
+881;Katherine Nockton;Dayr az Zawr;Dayr Az Zawr;Syria;KN-6390
+883;Kristina Nunn;Bacau;Bacau;Romania;KN-6705
+885;Karen Seio;Khorramabad;Lorestan;Iran;KS-6300
+887;Kean Thornton;Dallas;Texas;United States;KT-16480
+889;Kean Thornton;Cairo;Al Qahirah;Egypt;KT-6480
+891;Kelly Williams;Chennai;Tamil Nadu;India;KW-16570
+893;Kelly Williams;Brasov;Brasov;Romania;KW-6570
+895;Laura Armstrong;Bytom;Silesia;Poland;LA-6780
+897;Laurel Beltran;Ayacucho;Ayacucho;Peru;LB-16795
+899;Laurel Beltran;Adana;Adana;Turkey;LB-6795
+901;Lena Creighton;Champaign;Illinois;United States;LC-16885
+903;Lindsay Castell;Açu;Rio Grande do Norte;Brazil;LC-16960
+905;Logan Currie;Buenos Aires;Buenos Aires;Argentina;LC-17140
+907;Lena Creighton;Abidjan;Lagunes;Cote dIvoire;LC-6885
+909;Lindsay Castell;Benguela;Benguela;Angola;LC-6960
+911;Logan Currie;Tbilisi;Tbilisi;Georgia;LC-7140
+913;Lisa DeCherney;Canberra;Australian Capital Territory;Australia;LD-17005
+915;Lisa DeCherney;Mersin;Mersin;Turkey;LD-7005
+917;Laurel Elliston;Jizan;Jizan;Saudi Arabia;LE-6810
+919;Luke Foster;Cankaya;Ankara;Turkey;LF-7185
+921;Lena Hernandez;Bangkok;Bangkok;Thailand;LH-16900
+923;Logan Haushalter;Amadora;Lisboa;Portugal;LH-17155
+925;Lena Hernandez;Ilorin;Kwara;Nigeria;LH-6900
+927;Logan Haushalter;Chelyabinsk;Chelyabinsk;Russia;LH-7155
+929;Lauren Leatherbury;Kinshasa;Kinshasa;Democratic Republic of the Congo;LL-6840
+931;Liz MacKendrick;Annaba;Annaba;Algeria;LM-7065
+933;Lori Olson;Adana;Adana;Turkey;LO-7170
+935;Liz Preis;Aurora;Illinois;United States;LP-17095
+937;Liz Preis;St. Catharines;Ontario;Canada;LP-7095
+939;Lisa Ryan;Auckland;Auckland;New Zealand;LR-17035
+941;Lisa Ryan;Marrakech;Marrakech-Tensift-El Haouz;Morocco;LR-7035
+943;Lindsay Shagiari;Baltimore;Maryland;United States;LS-16975
+945;Lycoris Saunders;Barreirinhas;Maranhão;Brazil;LS-17230
+947;Linda Southworth;Adana;Adana;Turkey;LS-6945
+949;Luke Schmidt;Bursa;Bursa;Turkey;LS-7200
+951;Lynn Smith;Atakpame;Plateaux;Togo;LS-7245
+953;Liz Thompson;Guangzhou;Guangdong;China;LT-17110
+955;Liz Thompson;Kigali;Kigali;Rwanda;LT-7110
+957;Lindsay Williams;Henderson;Nevada;United States;LW-16990
+959;Luke Weiss;Baguio City;Cordillera;Philippines;LW-17215
+961;Lindsay Williams;Ekibastuz;Pavlodar;Kazakhstan;LW-6990
+963;Luke Weiss;Casablanca;Grand Casablanca;Morocco;LW-7215
+965;Michelle Arnett;Cheyenne;Wyoming;United States;MA-17995
+967;Michelle Arnett;Luanda;Luanda;Angola;MA-7995
+969;Mick Brown;Cienfuegos;Cienfuegos;Cuba;MB-18085
+971;Mick Brown;Arkhangelsk;Arkhangelsk;Russia;MB-8085
+973;Mark Cousins;Houston;Texas;United States;MC-17425
+975;Matt Collister;Arlington;Texas;United States;MC-17590
+977;Matthew Clasen;Bogor;Jawa Barat;Indonesia;MC-17635
+979;Mick Crebagga;Adelaide;South Australia;Australia;MC-18100
+981;Marc Crier;Ilorin;Kwara;Nigeria;MC-7275
+983;Matt Collins;Jeddah;Makkah;Saudi Arabia;MC-7575
+985;Matt Connell;Tallinn;Harjumaa;Estonia;MC-7605
+987;Michael Chen;Al Hudaydah;Al Hudaydah;Yemen;MC-7845
+989;Mike Caudle;Baghdad;Baghdad;Iraq;MC-8130
+991;Michael Dominguez;Adelaide;South Australia;Australia;MD-17860
+993;Michael Dominguez;Jeddah;Makkah;Saudi Arabia;MD-7860
+995;Max Engle;Dallas;Texas;United States;ME-17725
+997;Maria Etezadi;Lviv;Lviv;Ukraine;ME-7320
+999;Michelle Ellison;Bandundu;Bandundu;Democratic Republic of the Congo;ME-8010
+1001;Monica Federle;Argenteuil;Ile-de-France;France;MF-18250
+1003;Monica Federle;Ashgabat;Ashgabat;Turkmenistan;MF-8250
+1005;Maureen Gastineau;Auckland;Auckland;New Zealand;MG-17680
+1007;Michael Grace;Arlington;Virginia;United States;MG-17875
+1009;Mike Gockenbach;Bhilwara;Rajasthan;India;MG-18145
+1011;Maureen Gastineau;Izmir;Izmir;Turkey;MG-7680
+1013;Michael Grace;Arusha;Arusha;Tanzania;MG-7875
+1015;Mitch Gastineau;Cape Town;Western Cape;South Africa;MG-8205
+1017;Mark Haberlin;Berlin;Berlin;Germany;MH-17440
+1019;Matt Hagelstein;Bielefeld;North Rhine-Westphalia;Germany;MH-17620
+1021;Michelle Huthwaite;Brandenburg;Brandenburg;Germany;MH-18025
+1023;Marc Harrigan;Antananarivo;Analamanga;Madagascar;MH-7290
+1025;Mark Hamilton;Rybnik;Silesia;Poland;MH-7455
+1027;Maya Herman;Nairobi;Nairobi;Kenya;MH-7785
+1029;Mick Hernandez;Kikwit;Bandundu;Democratic Republic of the Congo;MH-8115
+1031;Max Jones;Wad Madani;Gezira;Sudan;MJ-7740
+1033;Mike Kennedy;Bogor;Jawa Barat;Indonesia;MK-18160
+1035;Mike Kennedy;Casablanca;Grand Casablanca;Morocco;MK-8160
+1037;Maris LaWare;Camagüey;Camagüey;Cuba;ML-17410
+1039;Michelle Lonsdale;Dearborn;Michigan;United States;ML-18040
+1041;Marina Lichtenstein;Vlore;Vlorë;Albania;ML-7395
+1043;Max Ludwig;Settat;Chaouia-Ouardigha;Morocco;ML-7755
+1045;Muhammed Lee;Cairo;Al Qahirah;Egypt;ML-8265
+1047;Michael Moore;Amsterdam;North Holland;Netherlands;MM-17920
+1049;Muhammed MacIntyre;Bihar Sharif;Bihar;India;MM-18280
+1051;Michael Moore;Cairo;Al Qahirah;Egypt;MM-7920
+1053;Muhammed MacIntyre;Ad Diwaniyah;Al Qadisiyah;Iraq;MM-8280
+1055;Michael Nguyen;Gaziantep;Gaziantep;Turkey;MN-7935
+1057;Meg OConnel;Chicago;Illinois;United States;MO-17800
+1059;Mary ORourke;Huambo;Huambo;Angola;MO-7500
+1061;Michael Oakman;Adana;Adana;Turkey;MO-7950
+1063;Michael Paige;Adelaide;South Australia;Australia;MP-17965
+1065;Mark Packer;Annaba;Annaba;Algeria;MP-7470
+1067;Mike Pelletier;Bamako;Bamako;Mali;MP-8175
+1069;Mathew Reese;Mbandaka;Equateur;Democratic Republic of the Congo;MR-7545
+1071;MaryBeth Skach;Conway;Arkansas;United States;MS-17530
+1073;Maxwell Schwartz;Barquisimeto;Lara;Venezuela;MS-17770
+1075;Michael Stewart;Apopa;San Salvador;El Salvador;MS-17980
+1077;MaryBeth Skach;Antananarivo;Analamanga;Madagascar;MS-7530
+1079;Maxwell Schwartz;Andijon;Andijan;Uzbekistan;MS-7770
+1081;Michael Stewart;Algiers;Alger;Algeria;MS-7980
+1083;Michelle Tran;Delhi;Delhi;India;MT-18070
+1085;Michelle Tran;Girga;Suhaj;Egypt;MT-8070
+1087;Mike Vittorini;Argentan;Lower Normandy;France;MV-18190
+1089;Mike Vittorini;Algiers;Alger;Algeria;MV-8190
+1091;Mitch Willingham;Brasília;Federal District;Brazil;MW-18235
+1093;Mitch Willingham;Cairo;Al Qahirah;Egypt;MW-8235
+1095;Muhammed Yedwab;Bryan;Texas;United States;MY-18295
+1097;Muhammed Yedwab;Adana;Adana;Turkey;MY-8295
+1099;Mary Zewe;Arlington;Texas;United States;MZ-17515
+1101;Mary Zewe;Montréal;Quebec;Canada;MZ-7515
+1103;Nona Balk;Antiguo Cuscatlán;La Libertad;El Salvador;NB-18655
+1105;Nona Balk;Arak;Markazi;Iran;NB-8655
+1107;Nathan Cano;Guantánamo;Guantánamo;Cuba;NC-18415
+1109;Noah Childs;Allahabad;Uttar Pradesh;India;NC-18625
+1111;Nathan Cano;Kano;Kano;Nigeria;NC-8415
+1113;Natalie DeCherney;Chetumal;Quintana Roo;Mexico;ND-18370
+1115;Natalie DeCherney;Sevastopol;Sevastopol;Ukraine;ND-8370
+1117;Natalie Fritzler;Ballarat;Victoria;Australia;NF-18385
+1119;Nicole Fjeld;Chico;California;United States;NF-18595
+1121;Neil Französisch;Calgary;Alberta;Canada;NF-8475
+1123;Nat Gilpin;Almelo;Overijssel;Netherlands;NG-18355
+1125;Nat Gilpin;Bacau;Bacau;Romania;NG-8355
+1127;Nicole Hansen;Akola;Maharashtra;India;NH-18610
+1129;Neil Knudson;Bangkok;Bangkok;Thailand;NK-18490
+1131;Nancy Lomonaco;Bangkok;Bangkok;Thailand;NL-18310
+1133;Nathan Mautz;Antiguo Cuscatlán;La Libertad;El Salvador;NM-18445
+1135;Nathan Mautz;Constanta;Constanta;Romania;NM-8445
+1137;Naresj Patel;Buenos Aires;Buenos Aires;Argentina;NP-18325
+1139;Nora Pelletier;Glasgow;Scotland;United Kingdom;NP-18685
+1141;Naresj Patel;Lisichansk;Luhansk;Ukraine;NP-8325
+1143;Nora Pelletier;Kayes;Kayes;Mali;NP-8685
+1145;Nick Radford;Amarillo;Texas;United States;NR-18550
+1147;Neola Schneider;Belfort;Franche-Comté;France;NS-18505
+1149;Neola Schneider;Kano;Kano;Nigeria;NS-8505
+1151;Natalie Webber;Blackpool;England;United Kingdom;NW-18400
+1153;Nick Zandusky;Cartagena;Bolívar;Colombia;NZ-18565
+1155;Odella Nelson;Argenteuil;Ile-de-France;France;ON-18715
+1157;Olvera Toch;Bandung;Jawa Barat;Indonesia;OT-18730
+1159;Pete Armstrong;Kuala Lumpur;Kuala Lumpur;Malaysia;PA-19060
+1161;Patrick Bzostek;Duisburg;North Rhine-Westphalia;Germany;PB-18805
+1163;Philip Brown;Bagneux;Ile-de-France;France;PB-19150
+1165;Patrick Bzostek;Damaturu;Yobe;Nigeria;PB-8805
+1167;Philip Brown;Basra;Al Basrah;Iraq;PB-9150
+1169;Pamela Coakley;Antipolo;Calabarzon;Philippines;PC-18745
+1171;Pamela Coakley;Sofia;Sofiya-Grad;Bulgaria;PC-8745
+1173;Peter Fuller;Bogotá;Bogota;Colombia;PF-19120
+1175;Phillip Flathmann;Aubervilliers;Ile-de-France;France;PF-19225
+1177;Philip Fox;Boghni;Tizi Ouzou;Algeria;PF-9165
+1179;Patrick Gardner;Bakersfield;California;United States;PG-18820
+1181;Patrick Gardner;Astrakhan;Astrakhan;Russia;PG-8820
+1183;Patricia Hirasaki;Caloocan;National Capital;Philippines;PH-18790
+1185;Patrick Jones;Florence;Tuscany;Italy;PJ-18835
+1187;Patrick Jones;Bolu;Bolu;Turkey;PJ-8835
+1189;Paul Knutson;Managua;Managua;Nicaragua;PK-18910
+1191;Paul Knutson;Mersin;Mersin;Turkey;PK-8910
+1193;Paul Lucas;Bagneux;Ile-de-France;France;PL-18925
+1195;Paul MacIntyre;Canberra;Australian Capital Territory;Australia;PM-18940
+1197;Paul MacIntyre;Erzurum;Erzurum;Turkey;PM-8940
+1199;Parhena Norris;Bangalore;Karnataka;India;PN-18775
+1201;Patrick OBrill;Auckland;Auckland;New Zealand;PO-18850
+1203;Philisse Overcash;Dhaka;Dhaka;Bangladesh;PO-19180
+1205;Patrick OBrill;Mashhad;Razavi Khorasan;Iran;PO-8850
+1207;Philisse Overcash;Chisinau;Chisinau;Moldova;PO-9180
+1209;Paul Prost;Coffs Harbour;New South Wales;Australia;PP-18955
+1211;Patrick Ryan;Barra Mansa;Rio de Janeiro;Brazil;PR-18880
+1213;Pamela Stobb;Andover;Massachusetts;United States;PS-18760
+1215;Penelope Sewall;Bandung;Jawa Barat;Indonesia;PS-19045
+1217;Paul Stevenson;Istanbul;Istanbul;Turkey;PS-8970
+1219;Pete Takahito;Angers;Pays de la Loire;France;PT-19090
+1221;Paul Van Hugh;Cambridge;Massachusetts;United States;PV-18985
+1223;Pauline Webber;Chaguanas;Chaguanas;Trinidad and Tobago;PW-19030
+1225;Pauline Webber;Budapest;Budapest;Hungary;PW-9030
+1227;Quincy Jones;Brussels;Brussels;Belgium;QJ-19255
+1229;Ralph Arnett;Le Pré-Saint-Gervais;Ile-de-France;France;RA-19285
+1231;Russell Applegate;Coffs Harbour;New South Wales;Australia;RA-19915
+1233;Ralph Arnett;Arak;Markazi;Iran;RA-9285
+1235;Russell Applegate;Khomeynishahr;Esfahan;Iran;RA-9915
+1237;Randy Bradley;Celaya;Guanajuato;Mexico;RB-19330
+1239;Richard Bierner;Bogotá;Bogota;Colombia;RB-19435
+1241;Rob Beeghly;Antwerp;Antwerp;Belgium;RB-19570
+1243;Roger Barcio;Houston;Texas;United States;RB-19705
+1245;Randy Bradley;Casablanca;Grand Casablanca;Morocco;RB-9330
+1247;Richard Bierner;Sumy;Sumy;Ukraine;RB-9435
+1249;Rob Beeghly;Algiers;Alger;Algeria;RB-9570
+1251;Roger Barcio;Dakar;Dakar;Senegal;RB-9705
+1253;Roy Collins;Aachen;North Rhine-Westphalia;Germany;RC-19825
+1255;Roy Collins;Budapest;Budapest;Hungary;RC-9825
+1257;Rick Duston;Marseille;Provence-Alpes-Côte dAzur;France;RD-19480
+1259;Robert Dilbeck;Blenheim;Marlborough;New Zealand;RD-19660
+1261;Ross DeVincentis;Changchun;Jilin;China;RD-19810
+1263;Russell DAscenzo;Chicago;Illinois;United States;RD-19930
+1265;Rob Dowd;Khartoum;Khartoum;Sudan;RD-9585
+1267;Roger Demir;Baghdad;Baghdad;Iraq;RD-9720
+1269;Ruben Dartt;Misratah;Misratah;Libya;RD-9900
+1271;Ricardo Emerson;Albany;Western Australia;Australia;RE-19405
+1273;Ricardo Emerson;Ardabil;Ardabil;Iran;RE-9405
+1275;Randy Ferguson;Bayamo;Granma;Cuba;RF-19345
+1277;Roy Französisch;Broken Hill;New South Wales;Australia;RF-19840
+1279;Roland Fjeld;Ahvaz;Khuzestan;Iran;RF-9735
+1281;Rick Hansen;Carrefour;Ouest;Haiti;RH-19495
+1283;Ritsa Hightower;Karlsruhe;Baden-Württemberg;Germany;RH-19555
+1285;Rick Hansen;Basra;Al Basrah;Iraq;RH-9495
+1287;Ritsa Hightower;Riyadh;Ar Riyad;Saudi Arabia;RH-9555
+1289;Ralph Kennedy;Adelaide;South Australia;Australia;RK-19300
+1291;Rob Lucas;Chicago;Illinois;United States;RL-19615
+1293;Raymond Messe;Assen;Drenthe;Netherlands;RM-19375
+1295;Roland Murray;New York City;New York;United States;RM-19750
+1297;Robert Marley;Rivne;Rivne;Ukraine;RM-9675
+1299;Rose OBrian;Chicago;Illinois;United States;RO-19780
+1301;Rachel Payne;Aew?l-li;Jeju;South Korea;RP-19270
+1303;Roy Phan;Guantánamo;Guantánamo;Cuba;RP-19855
+1305;Resi Pölking;Bouake;Vallee Du Bandama;Cote dIvoire;RP-9390
+1307;Ralph Ritter;Apopa;San Salvador;El Salvador;RR-19315
+1309;Ralph Ritter;Opole;Opole;Poland;RR-9315
+1311;Ricardo Sperren;Cottbus;Brandenburg;Germany;RS-19420
+1313;Roy Skaria;Antiguo Cuscatlán;La Libertad;El Salvador;RS-19870
+1315;Roland Schwarz;Algiers;Alger;Algeria;RS-9765
+1317;Rick Wilson;Allauch;Provence-Alpes-Côte dAzur;France;RW-19540
+1319;Robert Waldorf;Glasgow;Scotland;United Kingdom;RW-19690
+1321;Rob Williams;Hamilton;Ontario;Canada;RW-9630
+1323;Sue Ann Reed;Bloemfontein;Free State;South Africa;SA-10830
+1325;Sarah Bern;Ankara;Ankara;Turkey;SB-10170
+1327;Sean Braxton;Adana;Adana;Turkey;SB-10290
+1329;Sarah Brown;Bandung;Jawa Barat;Indonesia;SB-20185
+1331;Sam Craven;Basra;Al Basrah;Iraq;SC-10020
+1333;Sanjit Chand;Cairo;Al Qahirah;Egypt;SC-10095
+1335;Scott Cohen;Istanbul;Istanbul;Turkey;SC-10260
+1337;Shahid Collister;Mahajanga;Boeny;Madagascar;SC-10380
+1339;Sonia Cooley;Baghdad;Baghdad;Iraq;SC-10575
+1341;Steve Chapman;Benin City;Edo;Nigeria;SC-10695
+1343;Stewart Carmichael;Basra;Al Basrah;Iraq;SC-10770
+1345;Sung Chung;Baghdad;Baghdad;Iraq;SC-10845
+1347;Sample Company A;Asansol;West Bengal;India;SC-20050
+1349;Scot Coram;Avadi;Tamil Nadu;India;SC-20230
+1351;Sean Christensen;Adelaide;South Australia;Australia;SC-20305
+1353;Shaun Chance;Artemisa;Artemisa;Cuba;SC-20440
+1355;Steve Carroll;Calamba;Calabarzon;Philippines;SC-20680
+1357;Steven Cartwright;Berlin;Berlin;Germany;SC-20725
+1359;Stuart Calhoun;Bandung;Jawa Barat;Indonesia;SC-20800
+1361;Shirley Daniels;Khartoum;Khartoum;Sudan;SD-10485
+1363;Sanjit Engle;Braila;Braila;Romania;SE-10110
+1365;Sandra Flanagan;Brasov;Brasov;Romania;SF-10065
+1367;Sylvia Foulston;Abadan;Khuzestan;Iran;SF-10965
+1369;Sarah Foster;Bellingham;Washington;United States;SF-20200
+1371;Sandra Glassco;Dar es Salaam;Dar Es Salaam;Tanzania;SG-10080
+1373;Speros Goranitis;Abidjan;Lagunes;Cote dIvoire;SG-10605
+1375;Sandra Glassco;Adelaide;South Australia;Australia;SG-20080
+1377;Speros Goranitis;Chengdu;Sichuan;China;SG-20605
+1379;Shahid Hopkins;Bishkek;Bishkek;Kyrgyzstan;SH-10395
+1381;Sally Hughsby;Aubervilliers;Ile-de-France;France;SH-19975
+1383;Stefanie Holloman;Bijie;Guizhou;China;SH-20635
+1385;Sanjit Jacobs;Astana;Astana;Kazakhstan;SJ-10125
+1387;Shirley Jackson;Ankara;Ankara;Turkey;SJ-10500
+1389;Sarah Jordon;Augsburg;Bavaria;Germany;SJ-20215
+1391;Sally Knutson;Bourges;Centre;France;SK-19990
+1393;Sara Luxemburg;Arbil;Arbil;Iraq;SL-10155
+1395;Sally Matthias;Hargeysa;Woqooyi Galbeed;Somalia;SM-10005
+1397;Susan MacKendrick;Koidu;Eastern;Sierra Leone;SM-10905
+1399;Sally Matthias;Benevento;Campania;Italy;SM-20005
+1401;Susan MacKendrick;Hyderabad;Telangana;India;SM-20905
+1403;Skye Norling;Ardabil;Ardabil;Iran;SN-10560
+1405;Skye Norling;Barcelona;Catalonia;Spain;SN-20560
+1407;Sean ODonnell;Almaty;Almaty City;Kazakhstan;SO-10335
+1409;Sibella Parks;Cairo;Al Qahirah;Egypt;SP-10545
+1411;Stephanie Phelps;Funtua;Katsina;Nigeria;SP-10650
+1413;Susan Pistek;Angarsk;Irkutsk;Russia;SP-10920
+1415;Stefania Perrino;Barcelona;Catalonia;Spain;SP-20620
+1417;Sung Pak;Chicago;Illinois;United States;SP-20860
+1419;Sharelle Roach;Nikopol;Dnipropetrovsk;Ukraine;SR-10425
+1421;Sharelle Roach;Augsburg;Bavaria;Germany;SR-20425
+1423;Saphhira Shifley;Lagos;Lagos;Nigeria;SS-10140
+1425;Shirley Schmidt;Ad Diwem;White Nile;Sudan;SS-10515
+1427;Sung Shariari;Lagos;Lagos;Nigeria;SS-10875
+1429;Shahid Shariari;Acayucan;Veracruz;Mexico;SS-20410
+1431;Sonia Sunley;Cairns;Queensland;Australia;SS-20590
+1433;Shui Tom;Cairo;Al Qahirah;Egypt;ST-10530
+1435;Stephanie Ulpright;Graz;Styria;Austria;SU-10665
+1437;Seth Vernon;Riyadh;Ar Riyad;Saudi Arabia;SV-10365
+1439;Stuart Van;Lagos;Lagos;Nigeria;SV-10815
+1441;Seth Vernon;Bangkok;Bangkok;Thailand;SV-20365
+1443;Stuart Van;Bhatpara;West Bengal;India;SV-20815
+1445;Scot Wooten;Roodepoort;Gauteng;South Africa;SW-10245
+1447;Sean Wendt;Istanbul;Istanbul;Turkey;SW-10350
+1449;Steven Ward;Abidjan;Lagunes;Cote dIvoire;SW-10755
+1451;Scott Williamson;Choluteca;Choluteca;Honduras;SW-20275
+1453;Shaun Weien;Guadalajara;Jalisco;Mexico;SW-20455
+1455;Sam Zeldin;Tehran;Tehran;Iran;SZ-10035
+1457;Tom Ashbrook;Bishkek;Bishkek;Kyrgyzstan;TA-11385
+1459;Ted Butterfield;Kano;Kano;Nigeria;TB-11055
+1461;Thomas Brumley;Baghdad;Baghdad;Iraq;TB-11190
+1463;Toby Braunhardt;Adiyaman;Adiyaman;Turkey;TB-11280
+1465;Tom Boeckenhauer;Maputo;Cidade De Maputo;Mozambique;TB-11400
+1467;Troy Blackwell;Baghdad;Baghdad;Iraq;TB-11595
+1469;Ted Butterfield;Fortaleza;Ceará;Brazil;TB-21055
+1471;Thomas Brumley;Acámbaro;Guanajuato;Mexico;TB-21190
+1473;Toby Braunhardt;Bangkok;Bangkok;Thailand;TB-21280
+1475;Tom Boeckenhauer;Basingstoke;England;United Kingdom;TB-21400
+1477;Troy Blackwell;Brisbane;Queensland;Australia;TB-21595
+1479;Tamara Chand;Aba;Abia;Nigeria;TC-10980
+1481;Toby Carlisle;Dakar;Dakar;Senegal;TC-11295
+1483;Tracy Collins;Lagos;Lagos;Nigeria;TC-11535
+1485;Theresa Coyne;Baguio City;Cordillera;Philippines;TC-21145
+1487;Tony Chapman;Bangalore;Karnataka;India;TC-21475
+1489;Tamara Dahlen;Izmir;Izmir;Turkey;TD-10995
+1491;Toby Gnade;Bishkek;Bishkek;Kyrgyzstan;TG-11310
+1493;Toby Gnade;Anshan;Liaoning;China;TG-21310
+1495;Thea Hendricks;Sofia;Sofiya-Grad;Bulgaria;TH-11100
+1497;Tiffany House;Baghdad;Baghdad;Iraq;TH-11235
+1499;Thea Hendricks;Auckland;Auckland;New Zealand;TH-21100
+1501;Tiffany House;Chicago;Illinois;United States;TH-21235
+1503;Tamara Manning;Cairo;Al Qahirah;Egypt;TM-11010
+1505;Tamara Manning;Bhatpara;West Bengal;India;TM-21010
+1507;Tanja Norvell;Bagamoyo;Pwani;Tanzania;TN-11040
+1509;Theone Pippenger;Istanbul;Istanbul;Turkey;TP-11130
+1511;Tracy Poddar;Diyarbakir;Diyarbakir;Turkey;TP-11565
+1513;Tom Prescott;Bangkok;Bangkok;Thailand;TP-21415
+1515;Toby Ritter;Dar es Salaam;Dar Es Salaam;Tanzania;TR-11325
+1517;Thais Sissman;Accra;Greater Accra;Ghana;TS-11085
+1519;Thomas Seio;Ndola;Copperbelt;Zambia;TS-11205
+1521;Todd Sumrall;Istanbul;Istanbul;Turkey;TS-11370
+1523;Tony Sayre;Algiers;Alger;Algeria;TS-11505
+1525;Trudy Schmidt;Diyarbakir;Diyarbakir;Turkey;TS-11655
+1527;Theresa Swint;Columbus;Georgia;United States;TS-21160
+1529;Toby Swindell;Birmingham;England;United Kingdom;TS-21340
+1531;Tom Stivers;Bandung;Jawa Barat;Indonesia;TS-21430
+1533;Troy Staebel;Amsterdam;North Holland;Netherlands;TS-21610
+1535;Ted Trevino;Algiers;Alger;Algeria;TT-11070
+1537;Tim Taslimi;Johannesburg;Gauteng;South Africa;TT-11265
+1539;Ted Trevino;Agra;Uttar Pradesh;India;TT-21070
+1541;Tim Taslimi;Christchurch;Canterbury;New Zealand;TT-21265
+1543;Tamara Willingham;Babol;Mazandaran;Iran;TW-11025
+1545;Tom Zandusky;Bagcilar;Istanbul;Turkey;TZ-11445
+1547;Tom Zandusky;Abreu e Lima;Pernambuco;Brazil;TZ-21445
+1549;Victoria Brennan;Loubomo;Niari;Republic of the Congo;VB-11745
+1551;Valerie Dominguez;Konya;Konya;Turkey;VD-11670
+1553;Vicky Freymann;Gaziantep;Gaziantep;Turkey;VF-11715
+1555;Vivek Gonzalez;Cairo;Al Qahirah;Egypt;VG-11790
+1557;Vivek Gonzalez;Brumado;Bahia;Brazil;VG-21790
+1559;Valerie Mitchum;Antalya;Antalya;Turkey;VM-11685
+1561;Valerie Mitchum;Adelaide;South Australia;Australia;VM-21685
+1563;Victor Preis;Ankara;Ankara;Turkey;VP-11730
+1565;Victor Preis;Barcelona;Catalonia;Spain;VP-21730
+1567;Vivek Sundaresam;Osmaniye;Osmaniye;Turkey;VS-11820
+1569;Valerie Takahito;Kaduna;Kaduna;Nigeria;VT-11700
+1571;Victoria Wilson;Aswan;Aswan;Egypt;VW-11775
+1573;William Brown;Istanbul;Istanbul;Turkey;WB-11850
+1575;Xylona Preis;Kirovohrad;Kirovohrad;Ukraine;XP-11865
+1577;Yoseph Carroll;Edmonton;Alberta;Canada;YC-11895
+1579;Yana Sorensen;Riyadh;Ar Riyad;Saudi Arabia;YS-11880
+1581;Zuschuss Carroll;Maiduguri;Borno;Nigeria;ZC-11910
+1583;Zuschuss Donatelli;Cairo;Al Qahirah;Egypt;ZD-11925
